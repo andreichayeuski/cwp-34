@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/andreichayeuski/cwp-34.git"
   },
-  "author": "gigaiis",
+  "author": "andreichayeuski",
   "dependencies": {
     "express": "^4.16.4",
     "joi": "^13.7.0",

@@ -1,2 +1,2 @@
 # cwp-34
-CWP/TASK/34 - Тестирование
+# The thirtieth fourth laboratory work on Cross Platform Programming
